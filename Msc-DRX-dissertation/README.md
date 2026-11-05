@@ -62,7 +62,7 @@ The classifier predicted 10 of the 12 experimental candidates as successful and 
 ## Repository structure
 
 ```text
-NSCI0017-DRX-dissertation/
+Msc-DRX-dissertation/
 ├── README.md
 └── Thesis_Supplementary_Files_Final/
     ├── Featurisation.ipynb
